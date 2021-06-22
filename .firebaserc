@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "play-12"
+  },
+  "targets": {
+    "play-12": {
+      "hosting": {
+        "timeview": [
+          "timeview"
+        ]
+      }
+    }
+  }
+}
